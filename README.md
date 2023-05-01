@@ -15,3 +15,6 @@ The deployable all-in-one bundle for Ultraviolet, a highly sophisticated proxy u
 If you are deploying to an alternative service or to a server, refer to [Deploy via terminal](https://github.com/titaniumnetwork-dev/Ultraviolet-App/wiki/Deploy-via-terminal).
 
 Additional information such as [customizing your frontend](https://github.com/titaniumnetwork-dev/Ultraviolet-App/wiki/Customizing-your-frontend) can be found on the [wiki](https://github.com/titaniumnetwork-dev/Ultraviolet-App/wiki).
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/682e6de6-adeb-425f-a167-289461672f74/deploy-status)](https://app.netlify.com/sites/ultraviolentpro/deploys)
